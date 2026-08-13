@@ -1,0 +1,22 @@
+body{
+    background-color: #adc874;
+}
+h1{
+    color: red;
+}
+h2{
+    font-family: monospace;
+}
+p{
+    background-color: aquamarine;
+}
+img{
+    width: 500px;
+    height: 350px;
+}
+.prueba{
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 30px;
+}
