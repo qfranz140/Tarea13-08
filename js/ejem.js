@@ -1,1 +1,1 @@
-alert("Hola, Soy Franz Gabriel, y esta es mi tare1")
+alert("Hola, Soy Franz Gabriel Quiroga Vera, y esta es mi tare1")
